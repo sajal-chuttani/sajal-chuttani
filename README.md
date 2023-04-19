@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajal</h1>
-<h3 align="center">A student interested in everything programing</h3>
+<h3 align="center">A student interested in everything programming</h3>
 
 - 🔭 I’m currently working on [Bluesock](bluesock.herokuapp.com)
 
